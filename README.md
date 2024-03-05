@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @liuhaoliang123456
-- 👀 I’m interested in PIC/MCC、MHD、流体化学模型建模
-- 🌱 I’m currently learning PIC/MCC
-- 📫 How to reach me：3236381276@QQ.COM
+
 
 
 <!---
